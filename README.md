@@ -20,13 +20,29 @@ I have hands-on experience in Java, Python, C, SQL, and modern tools like Spring
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Postgres" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
- <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
+<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
                    
 <br />
 
 #
 
 ![Bakht Zia Khan GitHub Stats](https://github-readme-stats.vercel.app/api?username=BakhtZiaKhan&show_icons=true&theme=radical)
+
+<h3 align="left"> My Github Stats</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BakhtZiaKhan&layout=compact&theme=highcontrast" alt=BakhtZiaKhan />
+
+<br />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+<br />
+<a href="https://github.com/BakhtZiaKhan">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BakhtZiaKhan&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BakhtZiaKhan&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BakhtZiaKhan&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BakhtZiaKhan&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BakhtZiaKhan&theme=2077" height="180em" />
+</div>
 <!---
 BakhtZiaKhan/BakhtZiaKhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
