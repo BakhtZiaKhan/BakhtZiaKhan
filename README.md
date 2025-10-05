@@ -5,10 +5,10 @@ I’ve worked extensively with modern development tools such as Docker, Kubernet
 ## 🌐 Socials
 
 [![LinkedIn (light for dark mode)](./img/linkedin-light.svg#gh-dark-mode-only)](https://www.linkedin.com/in/bakht-zia-khan-77558a292/)
-
+&nbsp;&nbsp;
 [![Portfolio (light for dark mode)](./img/globe-light.svg#gh-dark-mode-only)](https://bzkportfolio.netlify.app/)
 
-&nbsp;&nbsp;
+
 
 
 # 🧰 Languages and Tools
