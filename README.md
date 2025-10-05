@@ -3,8 +3,15 @@ I specialize in Java, Python, and C, with experience in JavaScript, HTML, and CS
 I’ve worked extensively with modern development tools such as Docker, Kubernetes, and MySQL, applying them across various full-stack and backend projects.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bakht-zia-khan-77558a292/) 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://bzkportfolio.netlify.app/)
+
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/bakht-zia-khan-77558a292/) 
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/bakht-zia-khan-77558a292/) 
+&nbsp;&nbsp;
+[![website](./img/globe-light.svg)](https://bzkportfolio.netlify.app/)
+[![website](./img/globe-dark.svg)](https://bzkportfolio.netlify.app/)
+&nbsp;&nbsp;
+
+
 # 🧰 Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
