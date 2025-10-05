@@ -2,13 +2,14 @@ Hi, I'm Bakht Zia Khan, a recent Computer Science graduate from Technological Un
 I specialize in Java, Python, and C, with experience in JavaScript, HTML, and CSS.
 I’ve worked extensively with modern development tools such as Docker, Kubernetes, and MySQL, applying them across various full-stack and backend projects.
 
-## 🌐 Socials:
+## 🌐 Socials
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/bakht-zia-khan-77558a292/) 
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/bakht-zia-khan-77558a292/) 
-&nbsp;&nbsp;
-[![website](./img/globe-light.svg)](https://bzkportfolio.netlify.app/)
-[![website](./img/globe-dark.svg)](https://bzkportfolio.netlify.app/)
+[![LinkedIn (dark for light mode)](./img/linkedin-dark.svg#gh-light-mode-only)](https://www.linkedin.com/in/bakht-zia-khan-77558a292/)
+[![LinkedIn (light for dark mode)](./img/linkedin-light.svg#gh-dark-mode-only)](https://www.linkedin.com/in/bakht-zia-khan-77558a292/)
+
+[![Portfolio (dark for light mode)](./img/globe-dark.svg#gh-light-mode-only)](https://bzkportfolio.netlify.app/)
+[![Portfolio (light for dark mode)](./img/globe-light.svg#gh-dark-mode-only)](https://bzkportfolio.netlify.app/)
+
 &nbsp;&nbsp;
 
 
