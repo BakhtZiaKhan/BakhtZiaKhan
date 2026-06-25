@@ -55,7 +55,7 @@ I’ve worked extensively with modern development tools such as Docker, Kubernet
 <br />
 
 ---
-# 🏆 GitHub Trophies
+
 
 ![](https://github-profile-trophy.vercel.app/?username=BakhtZiaKhan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!---
