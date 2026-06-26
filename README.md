@@ -32,12 +32,12 @@ I’ve worked extensively with modern development tools such as Docker, Kubernet
 
 ---
 
-![Bakht Zia Khan GitHub Stats](https://github-readme-stats.vercel.app/api?username=BakhtZiaKhan&show_icons=true&theme=radical)
+
 
 ---
 # My Github Stats
 
-[!Bakht GitHub stats](https://github-readme-stats.vercel.app/api?username=BakhtZiaKhan)](https://github.com/anuraghazra/github-readme-stats)
+![Bakht Zia Khan GitHub Stats](https://github-readme-stats.vercel.app/api?username=BakhtZiaKhan&show_icons=true&theme=radical)
 
 <br />
 
