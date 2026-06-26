@@ -37,7 +37,7 @@ I’ve worked extensively with modern development tools such as Docker, Kubernet
 ---
 # My Github Stats
 
-![Bakht Zia Khan GitHub Stats](https://github-readme-stats.vercel.app/api?username=BakhtZiaKhan&show_icons=true&theme=radical)
+![Bakht Zia Khan GitHub Stats](https://github-readme-stats.vercel.app/api?username=BakhtZiaKhan&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 <br />
 
