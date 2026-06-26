@@ -35,23 +35,6 @@ I’ve worked extensively with modern development tools such as Docker, Kubernet
 
 
 ---
-# My Github Stats
-
-![Bakht Zia Khan GitHub Stats](https://bakht-zia-khan-github-readme-stats.vercel.app/api?username=BakhtZiaKhan&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-<br />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div align="center">
-<br />
-<a href="https://github.com/BakhtZiaKhan">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BakhtZiaKhan&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BakhtZiaKhan&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BakhtZiaKhan&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BakhtZiaKhan&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BakhtZiaKhan&theme=2077" height="180em" />
-</div>
-
 
 # My Github Stats
 
