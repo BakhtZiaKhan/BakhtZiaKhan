@@ -37,7 +37,7 @@ I’ve worked extensively with modern development tools such as Docker, Kubernet
 ---
 # My Github Stats
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BakhtZiaKhan&layout=compact&theme=highcontrast" alt=BakhtZiaKhan />
+[!Bakht GitHub stats](https://github-readme-stats.vercel.app/api?username=BakhtZiaKhan)](https://github.com/BakhtZiaKhan/github-readme-stats)
 
 <br />
 
