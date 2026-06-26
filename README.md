@@ -3,7 +3,7 @@ I specialize in Java, Python, and C, with experience in JavaScript, HTML, and CS
 I’ve worked extensively with modern development tools such as Docker, Kubernetes, and MySQL, applying them across various full-stack and backend projects.
 
 ## 🌐 Socials
-[![LinkedIn (dark for light mode)](./img/linkedin-dark.svg#gh-light-mode-only)](https://www.linkedin.com/in/bakht-zia-khan-77558a292/)
+[large-colored-linkedin](large/colored/linkedin.svg)(https://www.linkedin.com/in/bakht-zia-khan-77558a292/)
 &nbsp;&nbsp;
 [![Portfolio (dark for light mode)](./img/globe-dark.svg#gh-light-mode-only)](https://bzkportfolio.netlify.app/)
 
