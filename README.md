@@ -5,7 +5,8 @@ I’ve worked extensively with modern development tools such as Docker, Kubernet
 ## 🌐 Socials
 [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg)](https://www.linkedin.com/in/bakht-zia-khan-77558a292/)
 &nbsp;&nbsp;
-[![Portfolio (dark for light mode)](./img/globe-dark.svg#gh-light-mode-only)](https://bzkportfolio.netlify.app/)
+[![Portfolio](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/portfolio.svg)](https://bzkportfolio.netlify.app/)
+&nbsp;&nbsp;
 
 
 
