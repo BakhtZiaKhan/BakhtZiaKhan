@@ -11,7 +11,7 @@ Recently completed **Harvard CS50P: Introduction to Programming with Python**, s
 
 <br />
 
-<img src="./assets/cs50p-certificate.png" alt="Harvard CS50P Certificate - Bakht Zia Khan" width="700px" />
+<img src=".img/CS50P.png" alt="Harvard CS50P Certificate - Bakht Zia Khan" width="700px" />
 
 <br />
 
