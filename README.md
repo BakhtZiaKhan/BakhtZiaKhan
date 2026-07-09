@@ -15,14 +15,6 @@ Recently completed **Harvard CS50P: Introduction to Programming with Python**, s
 
 <br />
 
-<img src=".img/CS50P.png" alt="Harvard CS50P Certificate - Bakht Zia Khan" width="700px" />
-
-<br />
-
-
-
-
-
 ## 🌐 Socials
 [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg)](https://www.linkedin.com/in/bakht-zia-khan-77558a292/)
 &nbsp;&nbsp;
