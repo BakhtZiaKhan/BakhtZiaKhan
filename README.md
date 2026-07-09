@@ -3,6 +3,22 @@ I specialize in Java, Python, and C, with experience in JavaScript, HTML, and CS
 I’ve worked extensively with modern development tools such as Docker, Kubernetes, and MySQL, applying them across various full-stack and backend projects.
 Recently completed  Harvard CS50P course. 
 
+# 🎓 Certifications
+
+## Harvard CS50P — Introduction to Programming with Python
+
+Recently completed **Harvard CS50P: Introduction to Programming with Python**, strengthening my Python fundamentals, problem-solving skills, file handling, testing, and object-oriented programming.
+
+<br />
+
+<img src="./assets/cs50p-certificate.png" alt="Harvard CS50P Certificate - Bakht Zia Khan" width="700px" />
+
+<br />
+
+
+
+
+
 ## 🌐 Socials
 [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg)](https://www.linkedin.com/in/bakht-zia-khan-77558a292/)
 &nbsp;&nbsp;
