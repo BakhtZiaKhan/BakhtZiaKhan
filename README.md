@@ -7,7 +7,11 @@ Recently completed  Harvard CS50P course.
 
 ## Harvard CS50P — Introduction to Programming with Python
 
-Recently completed **Harvard CS50P: Introduction to Programming with Python**, strengthening my Python fundamentals, problem-solving skills, file handling, testing, and object-oriented programming.
+Recently completed **Harvard CS50P: Introduction to Programming with Python**, strengthening my Python fundamentals, problem-solving, file handling, testing, and object-oriented programming skills.
+
+<br />
+
+<img src="img/CS50P.png" alt="Harvard CS50P Certificate - Bakht Zia Khan" width="700px" />
 
 <br />
 
