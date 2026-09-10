@@ -1,6 +1,7 @@
 Hi, I'm Bakht Zia Khan, a recent Computer Science graduate from Technological University Dublin.
 I specialize in Java, Python, and C, with experience in JavaScript, HTML, and CSS.
 I’ve worked extensively with modern development tools such as Docker, Kubernetes, and MySQL, applying them across various full-stack and backend projects.
+With hands on experience using AWS AI/cloud services
 Recently completed  Harvard CS50P course. 
 
 # 🎓 Certifications
