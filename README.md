@@ -21,7 +21,7 @@ Earned the **AWS SimuLearn: AI Practitioner Training Badge**, developing practic
 
 <br />
 
-<img src="img/AWS_AI_Practitioner.png" alt="AWS SimuLearn AI Practitioner Training Badge - Bakht Zia Khan" width="700px" />
+<img src="img/AWS_AI_Practitioner.png" alt="AWS SimuLearn AI Practitioner Training Badge - Bakht Zia Khan" width="400px" />
 
 <br />
 
