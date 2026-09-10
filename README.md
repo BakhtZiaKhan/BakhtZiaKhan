@@ -15,6 +15,16 @@ Recently completed **Harvard CS50P: Introduction to Programming with Python**, s
 
 <br />
 
+## AWS SimuLearn — AI Practitioner
+
+Earned the **AWS SimuLearn: AI Practitioner Training Badge**, developing practical knowledge of artificial intelligence, generative AI, foundation models, responsible AI, and AWS AI services.
+
+<br />
+
+<img src="img/AWS_AI_Practitioner.png" alt="AWS SimuLearn AI Practitioner Training Badge - Bakht Zia Khan" width="700px" />
+
+<br />
+
 ## 🌐 Socials
 [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg)](https://www.linkedin.com/in/bakht-zia-khan-77558a292/)
 &nbsp;&nbsp;
